@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="dishes">Restaurants dishes</string>
+    <string name="restaur">restaurant</string>
+    <string name="refine">Refine</string>
+
+</resources>
